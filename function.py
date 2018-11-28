@@ -1,7 +1,5 @@
 
-# coding: utf-8
 
-# In[9]:
 
 def presentation(product1):
     import pandas as pd
