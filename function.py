@@ -1,7 +1,4 @@
 
-
-
-
 def presentation2(product1)
     import pandas as pd
     import numpy as np
@@ -28,7 +25,7 @@ def presentation2(product1)
    
 
 
-##Comment 
+##End 
 
 
 
