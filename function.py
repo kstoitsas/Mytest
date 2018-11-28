@@ -29,7 +29,7 @@ def presentation(product1):
     return get_recommendations(product1, cosine_sim=cosine_sim) 
 
 
-# In[10]:
+##Comment 
 
 
 
