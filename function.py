@@ -22,3 +22,4 @@ def presentation2(product1)
         sim_scores = sim_scores[1:11]
         product_indices = [i[0] for i in sim_scores]
     return data['title'].iloc[product_indices]
+
