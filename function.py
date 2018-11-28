@@ -31,5 +31,5 @@ def presentation(product1):
 
 # In[10]:
 
-presentation('HP Deskjet 3720 All-in-One printer')
+
 
